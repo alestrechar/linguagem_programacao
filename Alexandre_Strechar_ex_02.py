@@ -16,20 +16,5 @@ class Aluno:
         else:
             return False
 
-
 alexandre = Aluno("3IA", "Alexandre", 7, 7, 7)
-print(alexandre.final())
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+print(alexandre.final()) 
